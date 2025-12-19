@@ -29,13 +29,14 @@ This project was developed as a university assignment to demonstrate frontend de
 - LocalStorage & Fake API
 - React Router
 - CSS / Custom Styling
+
+-------------------------------------------------------------
+
 👥 Team Roles:
 1️⃣ Eman khaled:Routing, Layout & Forms
 Implemented app routes, dashboard UI structure, and form functionalities including Add Project & Add Task.
 2️⃣ Esraa Ashraf:API, State Logic & UI Components
 Built fake API integration, state management logic, and contributed to reusable UI components.
-
--------------------------------------------------------------
 ## ⚙️ How to Run the Project
 
 Follow these steps to run the dashboard locally:
